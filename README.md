@@ -1,2 +1,2 @@
 # Hero-slider
- el fondo cambi
+ https://edy527.github.io/Hero-slider/
